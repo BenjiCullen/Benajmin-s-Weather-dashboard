@@ -33,6 +33,9 @@
   ## Questions
   If you have any further questions, please don't hesitate to contact me directly.
   GitHub: https://github.com/Benjicullen  
+
+  ![image](https://github.com/BenjiCullen/Benajmin-s-Weather-dashboard/assets/141322492/f478001e-5cf0-48b5-9478-007e4dbe5bf1)
+
   Email: benculln@hotmail.com
 
   ## Credits
