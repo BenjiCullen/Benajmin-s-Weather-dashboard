@@ -3,7 +3,7 @@ $(window).on('load', function () {
     checkLocalStorage();
 });
 // API Key for all weather data 
-var APIKey = "09e0d7e534e41ce68ba5f2577fa5f760";
+var APIKey = "9d0d646d76584f41d5ea0b06aadade82";
 var q = "";
 var now = moment();
 //Date and time formate for header
@@ -25,7 +25,7 @@ $("#search-button").on("click", function (event) {
 });
 // Function to create Button for searched city 
 function createRecentSearchBtn(q) {
-    var newLi = $("<li>")
+    var newLi = $("<li>");
     var newBtn = $('<button>');
     //Adding Extra ID for Button to stop Creating Duplicate Button on Click
     newBtn.attr('id', 'extraBtn');
